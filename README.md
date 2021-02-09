@@ -1,4 +1,4 @@
-# exploriing-workflows
+# Kim Bishop Work Flow Exploration
 
 1) ACCESS CURRENT VERSION:
 
